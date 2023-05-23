@@ -1,0 +1,61 @@
+
+
+.card-header{
+
+    font-size: 33px;
+    padding: 2rem;
+    font-weight: 600;
+    
+}
+.card-body{
+    background-color: rgb(61, 153, 79);
+}
+
+.card_1{
+    color: rgb(251, 203, 64);
+    font-size: 90px;
+    font-weight: 700;
+}
+.card_2{
+    color:  rgb(251, 203, 64);
+    font-weight: 600;
+}
+
+.card-body{
+    height: 12rem;
+}
+.card_text{
+    height: 6rem;
+    text-align: start;
+    margin: 2rem;
+    color: gray;
+}
+.form{
+    text-align: start;
+    margin: 2rem;
+    color: rgb(229, 210, 45);
+ }
+
+.code{
+    background-color: rgb(28, 72, 125);
+    height: 7rem;
+    
+}
+.getCode{
+    color:green ;
+    text-decoration: underline;
+    font-weight: 700;
+    
+    
+}
+.triangulo-invertido {
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 50px solid rgb(61, 153, 79);
+  }
+  
+  #codigoDescuento{
+    color: rgb(251, 203, 64);
+  }
